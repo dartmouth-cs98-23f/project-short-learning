@@ -1,0 +1,3 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:dartmouth-cs98-23f/project-short-learning-backend.git
