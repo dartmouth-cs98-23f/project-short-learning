@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = git@github.com:dartmouth-cs98-23f/project-short-learning-backend.git
-[submodule "project-short-learning-frontend"]
-	path = project-short-learning-frontend
+[submodule "frontend"]
+	path = frontend
 	url = git@github.com:dartmouth-cs98-23f/project-short-learning-frontend.git
