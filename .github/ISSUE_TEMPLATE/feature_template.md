@@ -4,10 +4,10 @@ about: for features
 
 ---
 
-# Feature Name
+# Name
 
-## Team
-Is this for Frontend or Backend or something else?
+## Background
+What is the feature about.
 
-## Description:
-What is the purpose of this feature?
+## Requirements
+What needs to be delivered. 
