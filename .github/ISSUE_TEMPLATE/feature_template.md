@@ -9,5 +9,8 @@ about: for features
 ## Background
 What is the feature about.
 
+## Integration
+Integration w/ other services, tickets, blockers.
+
 ## Requirements
 What needs to be delivered. 
