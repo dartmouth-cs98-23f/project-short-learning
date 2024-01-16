@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:dartmouth-cs98-23f/project-short-learning-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:dartmouth-cs98-23f/project-short-learning-frontend.git
+[submodule "machine-learning"]
+	path = machine-learning
+	url = https://github.com/dartmouth-cs98-23f/project-short-learning-ml.git
